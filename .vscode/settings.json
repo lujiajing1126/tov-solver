@@ -2,6 +2,12 @@
     "files.associations": {
         "common.h": "c",
         "type_traits": "c",
-        "const.h": "c"
+        "const.h": "c",
+        "solver.h": "c"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#541B10",
+        "titleBar.activeBackground": "#762516",
+        "titleBar.activeForeground": "#FEF9F8"
     }
 }

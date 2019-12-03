@@ -12,5 +12,7 @@
 #define MS 1.9891e33
 #define C2 (VC * VC)
 #define CP (CE * C2)
+// Nucleon Mass in CGS
+#define MN 1.67e15
 
 #endif

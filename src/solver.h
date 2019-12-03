@@ -16,6 +16,7 @@
 typedef struct _TOV_Tuple {
     double a;
     double b;
+    double c;
 } Pair;
 
 #endif

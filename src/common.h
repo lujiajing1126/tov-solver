@@ -8,6 +8,7 @@
 // Use unique py_array symbol
 #define PY_ARRAY_UNIQUE_SYMBOL tov_ARRAY_API
 #include <numpy/arrayobject.h>
+#include <math.h>
 
 #include "const.h"
 
